@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 
 💡 &nbsp;I like to explore new technologies and develop financial software.\
-🌱 &nbsp;I'm currently learning about microservice architectures, machine learning and cloud architecture.\
-✍️ &nbsp;In my free time, I play the guitar, draw/paint and read about finance\
-💬 &nbsp;Feel free to reach out to me just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at prajakta.jog24@gmail.com! I'll try to respond as soon as I can.\
 
 ### 🛠 &nbsp;Tech Stack
